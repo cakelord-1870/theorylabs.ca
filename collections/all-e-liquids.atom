@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/all-e-liquids.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-08-17T11:19:24-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/6648107794494</id>
+    <published>2021-08-17T11:19:24-04:00</published>
+    <updated>2021-08-17T11:19:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/ghost-xl-disposable"/>
+    <title>Ghost XL Disposable</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/GHOSTXLBLIZZARD5PACK_20mg.png?v=1629215472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">3.2 mL Ghost disposables</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6648107794494</id>
+      <title>Blizzard / 20mg</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6648107794494</id>
+      <title>Mixed Berry / 20mg</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6648107794494</id>
+      <title>Peach Ice / 20mg</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6648107794494</id>
+      <title>Strawberry Banana / 20mg</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6603754897470</id>
+    <published>2021-06-23T13:14:29-04:00</published>
+    <updated>2021-06-23T13:14:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/mng"/>
+    <title>MNG</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/MNG_b2dc0815-96f0-4f79-8606-1f0d004809e5.png?v=1624468422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://theorylabs.ca/products/mng">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rte product-single__description">A delicious, fresh ripe juicy mango. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>0 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>1.5 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>3 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>6 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>12 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>10mg Salt / 30ml S BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6603754897470</id>
+      <title>20mg Salt / 30ml S BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6599920484414</id>
+    <published>2021-06-16T14:29:52-04:00</published>
+    <updated>2021-06-16T14:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/cabac"/>
+    <title>CABAC</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TL30CABACSA20.jpg?v=1625587130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Canadian Tobacco.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6599920484414</id>
+      <title>30ml S CLR C / 20mg Salt</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6599916683326</id>
+    <published>2021-06-16T14:18:31-04:00</published>
+    <updated>2021-06-16T14:18:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/quackers"/>
+    <title>Bright Leaf</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TL30BrightLeafSA20.jpg?v=1625587097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Smoky Canadian Tobacco. Very close to a traditional Canadian cigarette.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6599916683326</id>
+      <title>30ml S CLR C / 20mg Salt</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6582924378174</id>
+    <published>2021-05-12T16:08:03-04:00</published>
+    <updated>2021-05-12T16:08:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/wtm-frozen"/>
+    <title>WTM Frozen</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/WTMFROZEN_013f70e2-8937-4fb1-84fb-3f8607388a14.png?v=1620850106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://theorylabs.ca/products/wtm-frozen">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rte product-single__description">
+<p><span>Taste all the parts of the watermelon. Juicy and little tart, sweet and oh so </span><span>refreshing</span><span>! </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>0 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>1.5 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>3 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>6 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>12 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>10 mg Salt / 30ml BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582924378174</id>
+      <title>20mg Salt / 30ml BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6582923264062</id>
+    <published>2021-05-12T16:03:04-04:00</published>
+    <updated>2021-05-12T16:03:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/wtm"/>
+    <title>WTM</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/WTM_aa9a540a-d71d-4631-8015-34dbc9ff07cb.png?v=1620849821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://theorylabs.ca/products/wtm">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rte product-single__description">
+<p><span>Taste all the parts of the watermelon. Juicy and little tart, sweet and oh so </span><span>refreshing</span><span>! Available in Frozen Version too!</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>0 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>1.5 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>3 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>6 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>12 mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>10mg Salt / 30ml BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6582923264062</id>
+      <title>20mg Salt / 30ml BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4805838864446</id>
+    <published>2021-01-29T12:07:00-05:00</published>
+    <updated>2021-01-29T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/boomstick-1"/>
+    <title>Boomstick</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BOOMSTICK_0fcc51e3-6bdb-40f6-9da4-c8b7287a2120.png?v=1611939475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 28.99
+            <a href="https://theorylabs.ca/products/boomstick-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>80vg/20pg</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>00mg / 60mL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>1.5mg / 60mL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>03mg / 60mL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>06mg / 60mL</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>00mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>1.5mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>03mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805838864446</id>
+      <title>06mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4805837619262</id>
+    <published>2021-01-29T11:50:18-05:00</published>
+    <updated>2021-01-29T11:50:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/swirl"/>
+    <title>Bulldog - Swirl</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Swirl.png?v=1619207357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 28.99
+            <a href="https://theorylabs.ca/products/swirl">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>0mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>1.5mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>3mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>6mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837619262</id>
+      <title>12mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4805837553726</id>
+    <published>2021-01-29T11:47:59-05:00</published>
+    <updated>2021-01-29T11:47:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/gator-blood"/>
+    <title>Bulldog - Blood</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Blood.png?v=1619207259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 28.99
+            <a href="https://theorylabs.ca/products/gator-blood">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b data-mce-fragment="1">Tropical fruit mix </b></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>0mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>1.5mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>3mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>6mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805837553726</id>
+      <title>12mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4805836996670</id>
+    <published>2021-01-29T11:46:14-05:00</published>
+    <updated>2021-01-29T11:46:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/grapes-a-lot"/>
+    <title>Bulldog - Grapes-a-Lot</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Grapes-A-Lot.png?v=1619207327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 28.99
+            <a href="https://theorylabs.ca/products/grapes-a-lot">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">All the Grapes</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>0mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>1.5mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>3mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>6mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4805836996670</id>
+      <title>12mg / 100mL</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4788873494590</id>
+    <published>2020-12-27T17:06:29-05:00</published>
+    <updated>2020-12-27T17:06:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/azure"/>
+    <title>Azure</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/AzureFB_3d6d8b60-261f-49a9-8de6-d99dd6725230.png?v=1609106908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Blueberry and Raspberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4788873494590</id>
+      <title>60ML / 0mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4788873494590</id>
+      <title>60ML / 1.5mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4788873494590</id>
+      <title>60ML / 3mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4788873494590</id>
+      <title>60ML / 6mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4782573223998</id>
+    <published>2020-12-15T11:50:18-05:00</published>
+    <updated>2020-12-15T11:50:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/the-drop-1"/>
+    <title>The Drop</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TheDrop3mg60mL.png?v=1619101456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span data-mce-fragment="1">Flavor Contains Apple</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782573223998</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782573223998</id>
+      <title>60ml BLK A / 1.5mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782573223998</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782573223998</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782573223998</id>
+      <title>60ml BLK A / 12mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4782571618366</id>
+    <published>2020-12-15T11:46:03-05:00</published>
+    <updated>2020-12-15T11:46:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/the-bassline-1"/>
+    <title>The Bassline</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TheBassline3mg60mL.png?v=1619101670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cranberry, Apple and Melon</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782571618366</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782571618366</id>
+      <title>60ml BLK A / 1.5mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782571618366</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4782571618366</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764383707198</id>
+    <published>2020-11-19T09:26:57-05:00</published>
+    <updated>2020-11-19T09:26:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/transcendence-salt"/>
+    <title>Transcendence Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TranscendenceSA_2a28c2fa-aa63-40d5-a1e9-98bebd73625a.png?v=1605796019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>(60/40 vg/pg)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764383707198</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764383707198</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382920766</id>
+    <published>2020-11-19T09:25:01-05:00</published>
+    <updated>2020-11-19T09:25:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/transcendence"/>
+    <title>Transcendence</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Transcendence_d2345104-7d54-4a04-b44c-0be88586d5e0.png?v=1605795903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>(80/20 vg/pg)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382593086</id>
+    <published>2020-11-19T09:23:32-05:00</published>
+    <updated>2020-11-19T09:23:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/namaste-salt"/>
+    <title>Namaste Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/NamasteSA_b14ea5de-001e-45f2-a03c-f78e83d2f5b2.png?v=1605795813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>(60/40 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382593086</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382593086</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382330942</id>
+    <published>2020-11-19T09:22:40-05:00</published>
+    <updated>2020-11-19T09:22:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/namaste"/>
+    <title>Namaste</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Namaste_6cbe53fa-e25d-43fa-8c97-afe6c7d33dd0.png?v=1605795763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><br></p>
+<p><span> </span><span>(80/20 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382068798</id>
+    <published>2020-11-19T09:21:30-05:00</published>
+    <updated>2020-11-19T09:21:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/harmony"/>
+    <title>Harmony</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Harmony_f513d967-11b2-4067-ab22-b7bd93090649.png?v=1605795691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fruit Salad is a family of fruit - meet the juicy peach who married the ripe pear and their three children - fresh ripe raspberry, soft-n- yet precocious blueberry, and ripe-n-ready strawberry! Simply fruitastic!!</span><span> </span><span>(75/25 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764381478974</id>
+    <published>2020-11-19T09:18:37-05:00</published>
+    <updated>2020-11-19T09:18:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/nirvana-salt"/>
+    <title>Nirvana Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/NirvanaSA_9e0a2503-7193-4904-acbd-be68749675bd.png?v=1605795520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>Flavor Contains Strawberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381478974</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381478974</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764381118526</id>
+    <published>2020-11-19T09:17:44-05:00</published>
+    <updated>2020-11-19T09:17:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/nirvana"/>
+    <title>Nirvana</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Nirvana_dd65297a-2f72-4252-94c4-4c986c5b16be.png?v=1605795466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>Flavor Contains Strawberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764375416894</id>
+    <published>2020-11-19T08:46:46-05:00</published>
+    <updated>2020-11-19T08:46:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/harmony-salt"/>
+    <title>Harmony Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HarmonySA_b5fb4170-2725-4e0e-a858-16fa3cae8b69.png?v=1605793610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fruit Salad is a family of fruit - meet the juicy peach who married the  ripe pear and their three children - fresh ripe raspberry, soft-n-yet precocious blueberry, and ripe-n-ready strawberry! Simply fruitastic!!</span><span> (60/40</span><span> vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764375416894</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764375416894</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4758914302014</id>
+    <published>2020-11-06T11:27:15-05:00</published>
+    <updated>2020-11-06T11:27:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/ws-fallout-salt"/>
+    <title>Fallout (Salt)</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/FalloutSA_f713b756-e5dc-4f73-95d3-efc179af3d8e.png?v=1605626635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cherry Fruit Punch blended with Ripe Watermelon. Mouth Watering Cherry and Watermelon with every vape! </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4758914302014</id>
+      <title>12mg</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4758914302014</id>
+      <title>20mg</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4756100841534</id>
+    <published>2020-11-01T16:19:49-05:00</published>
+    <updated>2020-11-01T16:19:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/dat-hocho-doe"/>
+    <title>Dat Hocho Doe</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/DHD.png?v=1605295960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99 - 29.99
+            <a href="https://theorylabs.ca/products/dat-hocho-doe">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We’ve taken your favorite tobacco flavour and paired it with your favorite hot drink during the winter, you won’t be confused with your newest favorite flavor. Available in Freebase and Salt Nic</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>0 mg / 60ml AMB A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>1.5 mg / 60ml AMB A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>3 mg / 60ml AMB A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>6 mg / 60ml AMB A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>12 mg / 60ml AMB A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>10mg Salt / 30ml S BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4756100841534</id>
+      <title>20mg Salt / 30ml S BLK C</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748783091774</id>
+    <published>2020-10-19T13:11:40-04:00</published>
+    <updated>2020-10-19T13:11:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/copy-of-dark-tobacco"/>
+    <title>Dark Tobacco</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/DarkTobaccoFB.png?v=1605624439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://theorylabs.ca/products/copy-of-dark-tobacco">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Dark Grapes blended with a Light Tobacco</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>30ml S BLK A / 12mg SALT</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>30ml S BLK A / 35mg SALT</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748783091774</id>
+      <title>60ml BLK A / 12mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748782469182</id>
+    <published>2020-10-19T13:07:07-04:00</published>
+    <updated>2020-10-19T13:07:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/copy-of-rye4-tobacco"/>
+    <title>RYE4 Tobacco</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/RYE4TobaccoFB.png?v=1605628646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://theorylabs.ca/products/copy-of-rye4-tobacco">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span><br></p>
+<p>Flavor Contains Tobacco</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>30ml S BLK A / 12mg SALT</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748782469182</id>
+      <title>60ml BLK A / 12mg</title>
+      <s:price currency="CAD">21.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

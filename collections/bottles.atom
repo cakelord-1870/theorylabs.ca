@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/bottles.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-01-14T12:32:00-05:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4798505812030</id>
+    <published>2021-01-14T12:32:00-05:00</published>
+    <updated>2021-01-14T12:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/60ml-glass"/>
+    <title>60ml Boston Round Glass</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/60mlGlass.jpg?v=1610645535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798505812030</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798504894526</id>
+    <published>2021-01-14T12:30:25-05:00</published>
+    <updated>2021-01-14T12:30:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/30ml-ldpe"/>
+    <title>30ml LDPE</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/30mlLDPE.jpg?v=1610645446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798504894526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798502928446</id>
+    <published>2021-01-14T12:26:47-05:00</published>
+    <updated>2021-01-14T12:26:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/30ml-pet"/>
+    <title>30ml PET</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/30mlPET.jpg?v=1610645280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798502928446</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.15</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798491623486</id>
+    <published>2021-01-14T11:53:15-05:00</published>
+    <updated>2021-01-14T11:53:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/60ml-pet"/>
+    <title>60ml PET</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/60mlPET.jpg?v=1610643554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798491623486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798489886782</id>
+    <published>2021-01-14T11:47:35-05:00</published>
+    <updated>2021-01-14T11:47:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/100ml-ldpe"/>
+    <title>100ml LDPE</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/download_5ba83436-38c7-488b-af45-427fcbd8c1c4.jpg?v=1610642949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798489886782</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798104698942</id>
+    <published>2021-01-13T15:53:31-05:00</published>
+    <updated>2021-01-13T15:53:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/100ml-clones"/>
+    <title>100ml Clones GEN 3</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/100mlClones.jpg?v=1610571325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798104698942</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798100635710</id>
+    <published>2021-01-13T15:49:40-05:00</published>
+    <updated>2021-01-13T15:49:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/30ml-tall-chubby-v3"/>
+    <title>30ml Tall Chubby V2</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/30mlTagg.png?v=1610570610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798100635710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4798103486526</id>
+    <published>2021-01-13T15:47:24-05:00</published>
+    <updated>2021-01-13T15:47:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/30ml-glass-with-dropper"/>
+    <title>30ml Glass with Dropper</title>
+    <s:type></s:type>
+    <s:vendor>Bottles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/30mlGlass.jpg?v=1610570867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottles<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4798103486526</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

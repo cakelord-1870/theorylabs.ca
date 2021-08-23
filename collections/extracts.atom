@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/extracts.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-01-25T10:11:24-05:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4803916595262</id>
+    <published>2021-01-25T10:11:24-05:00</published>
+    <updated>2021-01-25T10:11:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/wonder-flavors-thai-apple"/>
+    <title>Wonder Flavors - Thai Apple - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Wonder Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/images_2_853541af-48d9-45d4-aca3-071d34281ea7.jpg?v=1620061427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wonder Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 11.00
+            <a href="https://theorylabs.ca/products/wonder-flavors-thai-apple">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>535 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4803916595262</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4803916595262</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4803916595262</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4803916595262</id>
+      <title>100ml</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4803916595262</id>
+      <title>120ml</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4802059239486</id>
+    <published>2021-01-22T14:10:59-05:00</published>
+    <updated>2021-01-22T14:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/pg-propylene-glycol"/>
+    <title>PG - Propylene Glycol</title>
+    <s:type></s:type>
+    <s:vendor>PK Chem</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/PG.jpg?v=1611342704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PK Chem<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 179.99
+            <a href="https://theorylabs.ca/products/pg-propylene-glycol">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>USP<span data-mce-fragment="1"> Propylene Glycol</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>120ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>500ml</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>5 Gallon</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4802057699390</id>
+    <published>2021-01-22T14:06:42-05:00</published>
+    <updated>2021-01-22T14:06:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vg-vegetable-glycerin"/>
+    <title>VG - Vegetable Glycerin</title>
+    <s:type></s:type>
+    <s:vendor>PK Chem</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/VG.jpg?v=1611342339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PK Chem<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 179.99
+            <a href="https://theorylabs.ca/products/vg-vegetable-glycerin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>USP Palm based Glycerin</p>
+<p><span>99.7% USP Kosher</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>120ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>500ml</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>5 Gallon</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4801646264382</id>
+    <published>2021-01-21T12:27:16-05:00</published>
+    <updated>2021-01-21T12:27:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/wonder-flavors-green-jolly-candy"/>
+    <title>Wonder Flavors - Green Jolly Candy - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Wonder Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/images_2_30925e89-a08d-4b87-b238-af21d743657a.jpg?v=1620061025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wonder Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 59.00
+            <a href="https://theorylabs.ca/products/wonder-flavors-green-jolly-candy">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2866 g in stock</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>100ml</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>120ml</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>500ml</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801646264382</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">59.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4801607237694</id>
+    <published>2021-01-21T09:44:40-05:00</published>
+    <updated>2021-01-21T09:44:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/tpa-tfa-citrus-punch"/>
+    <title>TPA/TFA - Citrus Punch - Extract</title>
+    <s:type></s:type>
+    <s:vendor>TPA/TFA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/download_5619f701-1b21-457b-a07e-5118bde8a383.jpg?v=1620058667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TPA/TFA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 34.00
+            <a href="https://theorylabs.ca/products/tpa-tfa-citrus-punch">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3836 in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>500ml</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801607237694</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4801605828670</id>
+    <published>2021-01-21T09:35:49-05:00</published>
+    <updated>2021-01-21T09:35:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/tpa-tfa-caramel-1"/>
+    <title>TPA/TFA - Caramel - Extract</title>
+    <s:type></s:type>
+    <s:vendor>TPA/TFA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/download_53d1877e-001f-43e8-aaa9-1a09c26bdc4a.jpg?v=1620058184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>TPA/TFA<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 85.00
+            <a href="https://theorylabs.ca/products/tpa-tfa-caramel-1">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>6129 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>500ml</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4801605828670</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795624095806</id>
+    <published>2021-01-07T19:33:50-05:00</published>
+    <updated>2021-01-07T19:33:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/real-flavors-watermelon-taffy-sc"/>
+    <title>Real Flavors - Watermelon Taffy SC - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Real Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/REAL_61a3535f-a737-4384-a5c0-83e0af2183ee.jpg?v=1620056033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 62.00
+            <a href="https://theorylabs.ca/products/real-flavors-watermelon-taffy-sc">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>4293 in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>120ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>500ml</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795624095806</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795623505982</id>
+    <published>2021-01-07T19:32:03-05:00</published>
+    <updated>2021-01-07T19:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/real-flavors-shortbread-cookie-vg-base"/>
+    <title>Real Flavors - Shortbread Cookie VG Base</title>
+    <s:type></s:type>
+    <s:vendor>Real Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/REAL_94d00ea7-3648-4a26-890a-bd9f5bcb81e3.jpg?v=1620055543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 240.00
+            <a href="https://theorylabs.ca/products/real-flavors-shortbread-cookie-vg-base">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>4693.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>120ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>500ml</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795623505982</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">240.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795621834814</id>
+    <published>2021-01-07T19:27:19-05:00</published>
+    <updated>2021-01-07T19:27:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/real-flavors-french-toast-vg-base"/>
+    <title>Real Flavors - French Toast VG Base - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Real Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/REAL_3b204e0f-7eaf-4f9a-ac86-a916edad2994.jpg?v=1620055792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 62.00
+            <a href="https://theorylabs.ca/products/real-flavors-french-toast-vg-base">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2778 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>120ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>500ml</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621834814</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795621474366</id>
+    <published>2021-01-07T19:26:12-05:00</published>
+    <updated>2021-01-07T19:26:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/real-flavors-cream-vg-base"/>
+    <title>Real Flavors - Cream VG Base - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Real Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/REAL_62ebc311-bcf6-4ea5-881f-a8e34c567a5b.jpg?v=1620055753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 62.00
+            <a href="https://theorylabs.ca/products/real-flavors-cream-vg-base">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3416 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>120ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>500ml</title>
+      <s:price currency="CAD">37.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795621474366</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">62.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795620753470</id>
+    <published>2021-01-07T19:24:29-05:00</published>
+    <updated>2021-01-07T19:24:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/real-flavors-chocolate-chip-cookie-vg-base"/>
+    <title>Real Flavors - Chocolate Chip Cookie VG Base - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Real Flavors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/REAL_3d972a2f-04f9-49b0-99c7-55cb529b9ecd.jpg?v=1620055679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Flavors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 60.00
+            <a href="https://theorylabs.ca/products/real-flavors-chocolate-chip-cookie-vg-base">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3029 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>100ml</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>120ml</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>500ml</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795620753470</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795619213374</id>
+    <published>2021-01-07T19:21:05-05:00</published>
+    <updated>2021-01-07T19:21:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/one-on-one-sweet-and-tart-candy"/>
+    <title>One on One - Sweet and Tart Candy - Extract</title>
+    <s:type></s:type>
+    <s:vendor>One on One</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/41j2uyti4bL_cea8d920-d6f6-4f16-b531-d3319b486bbb.jpg?v=1620055097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One on One<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 61.00
+            <a href="https://theorylabs.ca/products/one-on-one-sweet-and-tart-candy">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3860 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>30ml</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>60ml</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>100ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>120ml</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>500ml</title>
+      <s:price currency="CAD">30.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795619213374</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795618066494</id>
+    <published>2021-01-07T19:13:06-05:00</published>
+    <updated>2021-01-07T19:13:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/one-on-one-happy-hard-candy-grape"/>
+    <title>One on One - Happy Hard Candy Grape - Extract</title>
+    <s:type></s:type>
+    <s:vendor>One on One</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/41j2uyti4bL_c077d7a0-3a5f-4bfe-8214-e3bd1e19659a.jpg?v=1620054758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One on One<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 61.00
+            <a href="https://theorylabs.ca/products/one-on-one-happy-hard-candy-grape">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">2985 g in stock</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>30ml</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>60ml</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>100ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>120ml</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>500ml</title>
+      <s:price currency="CAD">30.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795618066494</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795617673278</id>
+    <published>2021-01-07T19:12:00-05:00</published>
+    <updated>2021-01-07T19:12:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/one-on-one-happy-hard-candy-watermelon"/>
+    <title>One on One - Happy Hard Candy Watermelon - Extract</title>
+    <s:type></s:type>
+    <s:vendor>One on One</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/41j2uyti4bL_8081b180-698c-423f-8554-4c33007b0269.jpg?v=1620054821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>One on One<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 61.00
+            <a href="https://theorylabs.ca/products/one-on-one-happy-hard-candy-watermelon">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3188.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>30ml</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>60ml</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>100ml</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>120ml</title>
+      <s:price currency="CAD">11.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>500ml</title>
+      <s:price currency="CAD">30.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795617673278</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">61.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795616788542</id>
+    <published>2021-01-07T19:06:49-05:00</published>
+    <updated>2021-01-07T19:06:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/molin-berry-creamy-vanilla"/>
+    <title>Molin Berry - Creamy Vanilla - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Molin Berry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/molinberry_logo_1f9db257-0311-4c35-940b-4ec4a351e00c.jpg?v=1620054382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Molin Berry<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 40.00
+            <a href="https://theorylabs.ca/products/molin-berry-creamy-vanilla">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3087 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>30ml</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>100ml</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>120ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>500ml</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795616788542</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795610824766</id>
+    <published>2021-01-07T18:29:18-05:00</published>
+    <updated>2021-01-07T18:29:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/loranns-pomegranate-clear"/>
+    <title>Loranns - Pomegranate Clear - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Loranns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/lorann_1200x_bd7d25f1-3232-4036-b3a9-5356b9afda92.jpg?v=1620054237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loranns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 160.00
+            <a href="https://theorylabs.ca/products/loranns-pomegranate-clear">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>6469.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>500ml</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610824766</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795610234942</id>
+    <published>2021-01-07T18:25:05-05:00</published>
+    <updated>2021-01-07T18:25:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/loranns-grape-clear"/>
+    <title>Loranns - Grape (Clear) - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Loranns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/lorann_1200x_317ee5b6-56ea-4793-a331-ac39e97d30ac.jpg?v=1620053702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loranns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 40.00
+            <a href="https://theorylabs.ca/products/loranns-grape-clear">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2818.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>500ml</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795610234942</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795609907262</id>
+    <published>2021-01-07T18:23:59-05:00</published>
+    <updated>2021-01-07T18:23:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/loranns-cinnamon-roll"/>
+    <title>Loranns - Cinnamon Roll - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Loranns</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/lorann_1200x_586b44a5-42b8-4306-939c-29fd3390c029.jpg?v=1620053665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loranns<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 40.00
+            <a href="https://theorylabs.ca/products/loranns-cinnamon-roll">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2169.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>500ml</title>
+      <s:price currency="CAD">20.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795609907262</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795608956990</id>
+    <published>2021-01-07T18:20:59-05:00</published>
+    <updated>2021-01-07T18:20:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/liquid-barn-strawberry"/>
+    <title>Liquid Barn - Strawberry - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Liquid Barn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/LIQUIDBARN_85b6adbb-b81f-4a94-b57a-70f3f2e1182e.png?v=1620053517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liquid Barn<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 250.00
+            <a href="https://theorylabs.ca/products/liquid-barn-strawberry">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>5565 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>60ml</title>
+      <s:price currency="CAD">5.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>100ml</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>120ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>500ml</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">63.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795608956990</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795607613502</id>
+    <published>2021-01-07T18:17:24-05:00</published>
+    <updated>2021-01-07T18:17:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/liquid-barn-dew-mountain"/>
+    <title>Liquid Barn - Dew Mountain - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Liquid Barn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/LIQUIDBARN_0bd805dc-a276-4e75-863a-394fd69380d3.png?v=1620053394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liquid Barn<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 83.00
+            <a href="https://theorylabs.ca/products/liquid-barn-dew-mountain">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>4273 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>30ml</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>60ml</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>100ml</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>120ml</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>500ml</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607613502</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">83.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795607449662</id>
+    <published>2021-01-07T18:16:30-05:00</published>
+    <updated>2021-01-07T18:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/liquid-barn-cream"/>
+    <title>Liquid Barn - Cream - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Liquid Barn</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/LIQUIDBARN.png?v=1620053351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Liquid Barn<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.50 - 83.00
+            <a href="https://theorylabs.ca/products/liquid-barn-cream">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2402.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>30ml</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>60ml</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>100ml</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>120ml</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>500ml</title>
+      <s:price currency="CAD">43.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795607449662</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">83.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795606204478</id>
+    <published>2021-01-07T18:07:59-05:00</published>
+    <updated>2021-01-07T18:07:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/inawera-green-tea"/>
+    <title>Inawera - Green Tea - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Inawera</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/images_5_a3a031a9-7daf-480f-b3d2-e61f565e9096.jpg?v=1620052916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Inawera<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 80.00
+            <a href="https://theorylabs.ca/products/inawera-green-tea">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>3593.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>60ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>100ml</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>120ml</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>500ml</title>
+      <s:price currency="CAD">42.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795606204478</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795598209086</id>
+    <published>2021-01-07T17:19:53-05:00</published>
+    <updated>2021-01-07T17:19:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/great-lakes-creamy-milk"/>
+    <title>Great Lakes - Creamy Milk - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Great Lakes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/glfc.jpg?v=1620052463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Great Lakes<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.00 - 40.00
+            <a href="https://theorylabs.ca/products/great-lakes-creamy-milk">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2940 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>30ml</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>60ml</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>100ml</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>120ml</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>500ml</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795598209086</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795595751486</id>
+    <published>2021-01-07T17:04:41-05:00</published>
+    <updated>2021-01-07T17:04:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/flavour-art-wine-champagne"/>
+    <title>Flavour Art - Wine Champagne - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Flavour Art</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/images_1_43188004-62eb-4f84-b252-6d51c92b33be.jpg?v=1620052026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flavour Art<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75 - 200.00
+            <a href="https://theorylabs.ca/products/flavour-art-wine-champagne">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>4557 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>30ml</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>120ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>500ml</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595751486</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4795595489342</id>
+    <published>2021-01-07T17:03:09-05:00</published>
+    <updated>2021-01-07T17:03:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/flavour-art-vanilla-bourbon"/>
+    <title>Flavour Art - Vanilla Bourbon - Extract</title>
+    <s:type></s:type>
+    <s:vendor>Flavour Art</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/images_1_15b53bef-4740-462c-b3e6-f5498a9e5289.jpg?v=1620051974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flavour Art<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.75 - 50.00
+            <a href="https://theorylabs.ca/products/flavour-art-vanilla-bourbon">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>2907.5 g in stock</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>10ml</title>
+      <s:price currency="CAD">2.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>30ml</title>
+      <s:price currency="CAD">4.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>60ml</title>
+      <s:price currency="CAD">6.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>100ml</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>120ml</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>500ml</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4795595489342</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

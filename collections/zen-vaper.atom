@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/zen-vaper.atom"/>
+  <title>Theory Labs</title>
+  <updated>2020-11-19T09:26:57-05:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4764383707198</id>
+    <published>2020-11-19T09:26:57-05:00</published>
+    <updated>2020-11-19T09:26:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/transcendence-salt"/>
+    <title>Transcendence Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/TranscendenceSA_2a28c2fa-aa63-40d5-a1e9-98bebd73625a.png?v=1605796019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>(60/40 vg/pg)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764383707198</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764383707198</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382920766</id>
+    <published>2020-11-19T09:25:01-05:00</published>
+    <updated>2020-11-19T09:25:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/transcendence"/>
+    <title>Transcendence</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Transcendence_d2345104-7d54-4a04-b44c-0be88586d5e0.png?v=1605795903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>(80/20 vg/pg)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382920766</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382593086</id>
+    <published>2020-11-19T09:23:32-05:00</published>
+    <updated>2020-11-19T09:23:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/namaste-salt"/>
+    <title>Namaste Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/NamasteSA_b14ea5de-001e-45f2-a03c-f78e83d2f5b2.png?v=1605795813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>(60/40 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382593086</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382593086</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382330942</id>
+    <published>2020-11-19T09:22:40-05:00</published>
+    <updated>2020-11-19T09:22:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/namaste"/>
+    <title>Namaste</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Namaste_6cbe53fa-e25d-43fa-8c97-afe6c7d33dd0.png?v=1605795763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><br></p>
+<p><span> </span><span>(80/20 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382330942</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764382068798</id>
+    <published>2020-11-19T09:21:30-05:00</published>
+    <updated>2020-11-19T09:21:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/harmony"/>
+    <title>Harmony</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Harmony_f513d967-11b2-4067-ab22-b7bd93090649.png?v=1605795691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fruit Salad is a family of fruit - meet the juicy peach who married the ripe pear and their three children - fresh ripe raspberry, soft-n- yet precocious blueberry, and ripe-n-ready strawberry! Simply fruitastic!!</span><span> </span><span>(75/25 vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764382068798</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764381478974</id>
+    <published>2020-11-19T09:18:37-05:00</published>
+    <updated>2020-11-19T09:18:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/nirvana-salt"/>
+    <title>Nirvana Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/NirvanaSA_9e0a2503-7193-4904-acbd-be68749675bd.png?v=1605795520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>Flavor Contains Strawberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381478974</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381478974</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764381118526</id>
+    <published>2020-11-19T09:17:44-05:00</published>
+    <updated>2020-11-19T09:17:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/nirvana"/>
+    <title>Nirvana</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Nirvana_dd65297a-2f72-4252-94c4-4c986c5b16be.png?v=1605795466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p>
+<p><span>Flavor Contains Strawberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764381118526</id>
+      <title>60ml BLK A / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4764375416894</id>
+    <published>2020-11-19T08:46:46-05:00</published>
+    <updated>2020-11-19T08:46:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/harmony-salt"/>
+    <title>Harmony Salt</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HarmonySA_b5fb4170-2725-4e0e-a858-16fa3cae8b69.png?v=1605793610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fruit Salad is a family of fruit - meet the juicy peach who married the  ripe pear and their three children - fresh ripe raspberry, soft-n-yet precocious blueberry, and ripe-n-ready strawberry! Simply fruitastic!!</span><span> (60/40</span><span> vg/pg)</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764375416894</id>
+      <title>30ml S BLK A / 10mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4764375416894</id>
+      <title>30ml S BLK A / 20mg SALT</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

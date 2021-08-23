@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/clearance.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-02-01T12:23:43-05:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4807261388862</id>
+    <published>2021-02-01T12:23:43-05:00</published>
+    <updated>2021-02-01T12:23:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/joytech-egrip-replacement-coils"/>
+    <title>Joytech eGrip Replacement Coils</title>
+    <s:type></s:type>
+    <s:vendor>joytech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/egrip_coil_2_1024x1024_a0aff979-c7e4-4dc9-8fee-a80d5ae77fc8.jpg?v=1612200223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>joytech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The construction of the eGrip CS head is completely different compared to other Joyetech atomizer heads, so it only works with select devices. It has a resistance of 1.5Ω. Note: It can work under high voltage and wattage. (3.5v - 5.5v)</p>
+<p data-mce-fragment="1">Changing eGrip Coils: To begin, simply unscrew the bottom cap with a coin. The atomizer head will be located on the base of that bottom cap. Twist/Unscrew the atomizer head and replace it with a fresh new one.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807261388862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807252082750</id>
+    <published>2021-02-01T12:12:20-05:00</published>
+    <updated>2021-02-01T12:12:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/uwell-crown-2-replacement-coil"/>
+    <title>Uwell Crown 2 Replacement Coil</title>
+    <s:type></s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/crown-2-coil-0-25-canada-570x570.jpg?v=1612199541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Uwell Crown 2 Replacement Coil Heads – 0.25 ohms </strong></span></h2>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">100% Genuine Uwell. <span data-mce-fragment="1"> </span><span data-mce-fragment="1">Dual parallel wrapped vertical coils with low sub-ohm 0.25 ohm resistance.  </span></strong>Unique bullet-shape means positive connector is a cone which allows for more direct airflow and allows the coil to heat up more evenly.  Produces awesome clouds, great flavour and are long lasting.  New<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Ultra-Smooth Airflow Design</strong>.  High wattage operating range (from<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">60W to 100W</strong>).  Vertical design for best capillary action and greater wick saturation.  Imported organic cotton.</p>
+<p data-mce-fragment="1">Fits the<span data-mce-fragment="1"> </span><span data-mce-fragment="1"><strong data-mce-fragment="1"><a href="https://vapevine.ca/buy/uwell-crown-2-canada/" data-mce-fragment="1" data-mce-href="https://vapevine.ca/buy/uwell-crown-2-canada/">Uwell Crown 2 Sub-Ohm Tank</a></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807252082750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807246118974</id>
+    <published>2021-02-01T11:59:51-05:00</published>
+    <updated>2021-02-01T11:59:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vocc-t-coils"/>
+    <title>VOCC-T Coils</title>
+    <s:type></s:type>
+    <s:vendor>KANGER TECH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/authentic-kanger-vocc-t-coil-heads-canada.jpg?v=1612198785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KANGER TECH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_summary_middle" data-mce-fragment="1">
+<h1 class="product_title entry-title" data-mce-fragment="1">(*EVOD 2, TOPTANK EVOD*) | 5-pack</h1>
+</div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1">
+<p data-mce-fragment="1">Upgraded<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">VOCC-T</strong><span data-mce-fragment="1"> </span>(Vertical Organic Cotton Coil – Top) Replacement<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Dual Coils</strong>. For your <strong data-mce-fragment="1">EVOD,<span data-mce-fragment="1"> </span><a href="https://vapevine.ca/buy/kangertech-evod-2-starter-kit-canada/" data-mce-fragment="1" data-mce-href="https://vapevine.ca/buy/kangertech-evod-2-starter-kit-canada/">EVOD 2</a>, TopTank EVOD, Protank 3, TopTank EMOW, and Aerotank</strong>.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Kanger has released these coils along with the new Top Evod, the new top-filling pen style unit.  These new coil heads fit all of the same tanks as the previous coil version, but the VOCC-T are designed to work best with the Top Evod and Top Emow. </em></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The Authentic Kangertech Dual Coil 1.5 ohm Replacement Pack comes with:</strong></p>
+<p data-mce-fragment="1">5x – Stainless steel dual coil units (1.5 ohm)</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807246118974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807241596990</id>
+    <published>2021-02-01T11:53:23-05:00</published>
+    <updated>2021-02-01T11:53:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/yocan-cerum-coils"/>
+    <title>Yocan Cerum Coils</title>
+    <s:type></s:type>
+    <s:vendor>Yocan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/cerum.png?v=1612198407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yocan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This is a 5 pack of ceramic donut coils for your Yocan Cerum.  These coils have a resistance of 0.8ohm, quick heat up time and will provide clean tasty hits and big vapour. The air inlets are placed on the sides of the ceramic cup, which avoids the wax leaking from the bottom onto the coil. Rated for 15-25W.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807241596990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748848300094</id>
+    <published>2020-10-19T16:01:04-04:00</published>
+    <updated>2020-10-19T16:01:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/coil-master-521-mini-v2-ohm-meter"/>
+    <title>Coil Master 521 mini V2  OHM meter</title>
+    <s:type>OHM reader</s:type>
+    <s:vendor>Coil Master</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/521mini-V2-999-100x100.jpg?v=1603137664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coil Master<br>
+        <strong>Type: </strong>OHM reader<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="woocommerce-tabs wc-tabs-wrapper" data-mce-fragment="1">
+<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" data-mce-fragment="1">
+<p data-mce-fragment="1">Driven by a single 18650 battery, Coil Master 521 mini V2 is a handy compact device for all vapers.<br data-mce-fragment="1">It is a multi-functional device that acts as an ohm meter, voltage drop checker, rebuilding station and firing test station.<br data-mce-fragment="1">The 521 mini V2 is able to measure the resistance down to 0.05 ohm, and dry fire their coils down to 0.1 ohm as well.<br data-mce-fragment="1">Reverse battery protection and short circuit protection are also built in for safty use.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong><br data-mce-fragment="1">– Ohm meter<br data-mce-fragment="1">– Coil rebuilding deck<br data-mce-fragment="1">– Coil burning<br data-mce-fragment="1">– Reverse battery protection<br data-mce-fragment="1">– Short circuit protection<br data-mce-fragment="1">– Battery out put voltage testing<br data-mce-fragment="1">– PCB Heat protection</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specification</strong><br data-mce-fragment="1">– Resistance Measuring Range: 0.05-9.9ohm(Error±0.05ohm)<br data-mce-fragment="1">– Resistance rate: 0.1ohm<br data-mce-fragment="1">– Connection: 510 threaded with spring loaded pin<br data-mce-fragment="1">– Battery: Single 18650 battery driven (Battery is not included)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">General specifications</strong><br data-mce-fragment="1">Dimension: 80mm x 80mm x 28mm<br data-mce-fragment="1">Weight: 80g<br data-mce-fragment="1">Housing material: ABS</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Packing</strong><br data-mce-fragment="1">1x User Manual<br data-mce-fragment="1">1x 521 Mini V2</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+</div>
+</div>
+<div class="up-sells upsells products" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748848300094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748817236030</id>
+    <published>2020-10-19T14:50:52-04:00</published>
+    <updated>2020-10-19T14:50:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vandy-vape-pulse-bf-80w-box-mod"/>
+    <title>Vandy Vape Pulse BF 80W Box Mod</title>
+    <s:type></s:type>
+    <s:vendor>Vandy Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/pulse-80w-box-mod-001_1.jpg?v=1603133453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vandy Vape<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1">The Vandy Vape Pulse BF 80W Box Mod is made in collaboration with Tony B. to produce a lightweight, regulated squonk device utilizing Vandy Vape's proprietary chipset with 80W of maximum output and customizable temperature control settings.  A beautiful masterpiece catering to the rebuildable segment with a high-performance and fully regulated bottom-feeding box mod. The Pulse BF 80W is equipped with its own proprietary chipset, capable of firing up to 80W with full temperature control suite such as customizable curve output adjustments. The Pulse BF Regulated Mod can be utilized with a single 18650 battery with an included adapter or the longer-lasting 20700 battery for added versatility (batteries sold separately). The Pulse BF 80W implements interchangeable panels with beautiful designs ranging from carbon fiber to visually-striking resin-dyed colourways. The 8mL food-grade silicone squonk bottle can be assessed by removing the panel, offering an ergonomic experience when paired with today's top BF RDA’s.</span></p>
+<p class="p2" data-mce-fragment="1"><b data-mce-fragment="1"><br data-mce-fragment="1">Kit includes:<br data-mce-fragment="1"></b><span data-mce-fragment="1">1x Pulse BF 80W Box Mod<br data-mce-fragment="1"></span><span data-mce-fragment="1">1x 8mL Silicone Squonk Bottle<br data-mce-fragment="1"></span><span data-mce-fragment="1">1x MicroUSB Cable<br data-mce-fragment="1"></span><span data-mce-fragment="1">Instructional Manua</span></p>
+<p class="p2" data-mce-fragment="1"> </p>
+<p class="p2" data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8"> <b>Features</b></span></p>
+<ul>
+<li>Dimensions - 82mm by 54mm by 25.9mm<br>
+</li>
+<li>
+<p class="p1"><span>Vandy Vape's Advanced Chipset</span></p>
+</li>
+<li>
+<p class="p1"><span>Single High-Amp 20700 Batteries - Not<span class="Apple-converted-space"></span></span></p>
+</li>
+<li>
+<p class="p1"><span>Included</span></p>
+</li>
+<li>
+<p class="p1"><span>Optional Single 18650 Platform - Adapter Included</span></p>
+</li>
+<li>
+<p class="p1"><span>Bottom-Feeding Squonk Design - 8mL Squeeze Bottle</span></p>
+</li>
+<li>
+<p class="p1"><span>Wattage Output Range: 5-80W</span></p>
+</li>
+<li>
+<p class="p1"><span>Voltage Output Range: 0-8.5V</span></p>
+</li>
+<li>
+<p class="p1"><span>Min Atomizer Resistance: 0.05ohm</span></p>
+</li>
+<li>
+<p class="p1"><span>Temperature Control Range: 200-600F</span></p>
+</li>
+<li>
+<p class="p1"><span>Supports Ni200 Nickel, Titanium, and Stainless Steel Heating Elements</span></p>
+</li>
+<li>
+<p class="p1"><span>Comprehensive TCR Adjustments</span></p>
+</li>
+<li>
+<p class="p1"><span>User Defined Temperature Control Mode</span></p>
+</li>
+<li>
+<p class="p1"><span>User Defined TC Curve Set Mode</span></p>
+</li>
+<li>
+<p class="p1"><span>Lightweight Nylon &amp; ABS Construction</span></p>
+</li>
+<li>
+<p class="p1"><span>Intuitive 0.91 Inch OLED Display</span></p>
+</li>
+<li>
+<p class="p1"><span>Interchangeable Dual Magnetic Battery Panels</span></p>
+</li>
+<li>
+<p class="p1"><span>Tactile Firing Button</span></p>
+</li>
+<li>
+<p class="p1"><span>Dual Adjustment Buttons</span></p>
+</li>
+<li>
+<p class="p1"><span>Short Circuit Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Over-Heating Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Over-Current Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Overtime Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Open Circuit Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Low Battery Warning</span></p>
+</li>
+<li>
+<p class="p1"><span>MicroUSB Port - 1.5A Max Charge Current</span></p>
+</li>
+<li>
+<p class="p1"><span>Firmware Upgradeable</span></p>
+</li>
+<li>
+<p class="p1"><span>Squonk-Ready 510 Connection - Anti Leaking Securement</span></p>
+</li>
+<li>
+<p class="p1"><span>Carbon Fiber - Full Black, Black / Silver</span></p>
+</li>
+<li>
+<p class="p1"><span>Resin - Lava Red, Fantastic Blue, Seaweed Green, Aurora Rainbow</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748817236030</id>
+      <title>Aurora Rainbow</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748817236030</id>
+      <title>Lava Red</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

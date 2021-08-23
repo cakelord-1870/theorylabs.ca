@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/blogs/news.atom"/>
+  <title>Theory Labs - News</title>
+  <updated>2021-06-24T11:02:47-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/blogs/news/june-24-the-flavour-ban</id>
+    <published>2021-06-24T11:02:47-04:00</published>
+    <updated>2021-06-24T13:16:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/blogs/news/june-24-the-flavour-ban"/>
+    <title>June 24: The Flavour Ban</title>
+    <author>
+      <name>Peter Mentz</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p> </p>
+<p> </p>
+<p> </p><p><a class="read-more" href="https://theorylabs.ca/blogs/news/june-24-the-flavour-ban">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p> </p>
+<p> </p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/1960/2991/files/theory_480x480.png?v=1624547711" alt="" width="195" height="142"></span></p>
+<p><span>So on June 19, 2021 the Canadian government announced a flavour ban in Gazette 1. As consumers and as stakeholders we need to </span></p>
+<p><span>1) sign the petition at </span><span><a class="oajrlxb2 g5ia77u1 qu0x051f esr5mh6w e9989ue4 r7d6kgcz rq0escxv nhd2j8a9 nc684nl6 p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso i1ao9s8h esuyzwwr f1sip0of lzcic4wl py34i1dx gpro0wi8" href="https://petitions.ourcommons.ca/en/Petition/Details?Petition=e-3362&amp;fbclid=IwAR0FL1Dul1Gy3rw9nfJh6ZwrItlGX2xH8ABykcRnsretoacW9_gvFJicNPw" rel="nofollow noopener noreferrer" role="link" target="_blank" tabindex="0">https://petitions.ourcommons.ca/en/Petition/Details...</a></span><span> </span></p>
+<p><span>2) complete the form at http://tobaccokills.ca   </span></p>
+<p><span>3) send in a personal letter to Health Canada submit via e-mail to: hc.pregs.sc@canada.ca explaining what this all means to you personally, make sure you mention Gazette 1 and June 19th in your response within the next 70 days </span></p>
+<p><span>Or you can mail it to: <br></span><span></span></p>
+<p><span>Sunita Gingras, </span><span>Manager Vaping Products, </span></p>
+<p><span>Regulation Division Tobacco Products,  </span></p>
+<p><span>Health Canada 150 Tunney's Pasture Driveway </span></p>
+<p><span>Ottawa, Ontario K1A 0K9</span></p>]]>
+    </content>
+  </entry>
+</feed>

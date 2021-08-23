@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/vg-pg.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-01-22T14:10:59-05:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4802059239486</id>
+    <published>2021-01-22T14:10:59-05:00</published>
+    <updated>2021-01-22T14:10:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/pg-propylene-glycol"/>
+    <title>PG - Propylene Glycol</title>
+    <s:type></s:type>
+    <s:vendor>PK Chem</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/PG.jpg?v=1611342704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PK Chem<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 179.99
+            <a href="https://theorylabs.ca/products/pg-propylene-glycol">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>USP<span data-mce-fragment="1"> Propylene Glycol</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>120ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>500ml</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802059239486</id>
+      <title>5 Gallon</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4802057699390</id>
+    <published>2021-01-22T14:06:42-05:00</published>
+    <updated>2021-01-22T14:06:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vg-vegetable-glycerin"/>
+    <title>VG - Vegetable Glycerin</title>
+    <s:type></s:type>
+    <s:vendor>PK Chem</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/VG.jpg?v=1611342339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PK Chem<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99 - 179.99
+            <a href="https://theorylabs.ca/products/vg-vegetable-glycerin">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>FOOD GRADE FLAVOURING - NON FINISHED PRODUCT</span></p>
+<p>USP Palm based Glycerin</p>
+<p><span>99.7% USP Kosher</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>120ml</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>500ml</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>1000ml</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>1 Gallon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4802057699390</id>
+      <title>5 Gallon</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/thick-oil-retail.atom"/>
+  <title>Theory Labs</title>
+  <updated>2020-09-23T13:26:09-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/4733334650942</id>
+    <published>2020-09-23T13:26:09-04:00</published>
+    <updated>2020-09-23T13:26:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-amber"/>
+    <title>Thick Oil - Amber</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Amber.png?v=1605284159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span mce-data-marked="1">Ry4 Tobacco with a nice finish</span></p>
+<p>80/20<br></p>
+<p>100ml</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733334650942</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733334650942</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733334650942</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733333438526</id>
+    <published>2020-09-23T13:25:13-04:00</published>
+    <updated>2020-09-23T13:25:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-ruby"/>
+    <title>Thick Oil - Ruby</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Ruby_9c18f538-7300-4eda-91e4-5f8eeff804dc.png?v=1605284219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span mce-data-marked="1">Strawberry Tobacco</span></p>
+<p>80/20<br></p>
+<p>100ml</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733333438526</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733333438526</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733333438526</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733253779518</id>
+    <published>2020-09-23T10:47:11-04:00</published>
+    <updated>2020-09-23T10:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/high-hope-mint"/>
+    <title>High Hope - Mint</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HHMint.png?v=1605280453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Blended to perfection, this minty concoction will feel just like a breeze of fresh air.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253779518</id>
+      <title>60mL / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253779518</id>
+      <title>60mL / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253779518</id>
+      <title>60mL / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733253615678</id>
+    <published>2020-09-23T10:46:44-04:00</published>
+    <updated>2020-09-23T10:46:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/high-hope-mild"/>
+    <title>High Hope - Mild</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HHMild.png?v=1605280449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Smooth and rounded, this blond tobacco blend is the perfect all day vape</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253615678</id>
+      <title>60mL / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253615678</id>
+      <title>60mL / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733253615678</id>
+      <title>60mL / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733223764030</id>
+    <published>2020-09-23T09:29:29-04:00</published>
+    <updated>2020-09-23T09:29:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/high-hope-gourmet"/>
+    <title>High Hope - Gourmet</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HHGourmet.png?v=1605280457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733223764030</id>
+      <title>60mL / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733223764030</id>
+      <title>60mL / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733223764030</id>
+      <title>60mL / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733222289470</id>
+    <published>2020-09-23T09:26:45-04:00</published>
+    <updated>2020-09-23T09:26:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/high-hope-bold"/>
+    <title>High Hope - Bold</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HHBold.png?v=1605280464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Closer to an American tobacco or a cigar, this will everyone that loves a full bodied tobacco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733222289470</id>
+      <title>60mL / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733222289470</id>
+      <title>60mL / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733222289470</id>
+      <title>60mL / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4733220880446</id>
+    <published>2020-09-23T09:24:42-04:00</published>
+    <updated>2020-09-23T09:24:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/high-hope-berries-nic-salt"/>
+    <title>High Hope - Berries</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/HHBerries.png?v=1605280461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A blissfully balanced mix of strawberries, raspberries and blueberries.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733220880446</id>
+      <title>60mL / 0mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733220880446</id>
+      <title>60mL / 3mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4733220880446</id>
+      <title>60mL / 6mg</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588842156094</id>
+    <published>2020-06-14T09:54:07-04:00</published>
+    <updated>2020-06-14T09:54:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-canilla"/>
+    <title>Thick Oil - Canilla Oil</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Canilla_c55a0a91-850f-4bbd-a68b-c9369c2917b5.png?v=1605282257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Ry4</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Thick Oil and Hope</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588842156094</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588842156094</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588842156094</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588889112638</id>
+    <published>2020-06-10T10:38:31-04:00</published>
+    <updated>2020-06-10T10:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/hope-mint-nic-salt"/>
+    <title>Hope - Mint Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/MintSA_b39d4c95-0e25-4122-8d44-90651c4a4e29.png?v=1605281204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Blended to perfection, this minty concoction will feel just like a breeze of fresh air.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588889112638</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588889112638</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588887146558</id>
+    <published>2020-06-10T10:36:21-04:00</published>
+    <updated>2020-06-10T10:36:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/hope-bold-nic-salt"/>
+    <title>Hope - Bold Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BoldSA_96da8443-1744-4bfb-a67c-7f676d054937.png?v=1605281191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Closer to an American tobacco or a cigar, this will everyone that loves a full bodied tobacco.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588887146558</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588887146558</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588884820030</id>
+    <published>2020-06-10T10:33:50-04:00</published>
+    <updated>2020-06-10T10:33:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/hope-mild-nic-salt"/>
+    <title>Hope - Mild Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/MildSA_ac17184f-5c1f-4acf-913c-371a0899d10f.png?v=1605281204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Smooth and rounded, this blonde tobacco blend is the perfect all day vape</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588884820030</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588884820030</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588882919486</id>
+    <published>2020-06-10T10:32:12-04:00</published>
+    <updated>2020-06-10T10:32:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/hope-berries-nic-salt"/>
+    <title>Hope - Berries Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BerriesSA_55886950-ef7b-4aa2-9715-27a9a3c861d4.png?v=1605281178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>A blissfully balanced mix of strawberries, raspberries and blueberries. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588882919486</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588882919486</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588879315006</id>
+    <published>2020-06-10T10:28:31-04:00</published>
+    <updated>2020-06-10T10:28:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/hope-gourmet"/>
+    <title>Hope - Gourmet Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/GourmetSA_8e8ce84a-29e3-42d9-8ac0-090f56e6750b.png?v=1605281195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588879315006</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588879315006</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">22.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588862668862</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-butter-nic-salt"/>
+    <title>Thick Oil - Butter  Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/ButterSA_ffa8077f-a97e-47f1-9cab-039e47809332.png?v=1605281962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588862668862</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588862668862</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588859162686</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-blu-razz-nic-salt"/>
+    <title>Thick Oil - Blu Razz  Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BluRazzSA_8b796b9f-842a-46cf-b512-d6d295ebe80e.png?v=1605281855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Blue raspberry vape, very carefully balanced.<br></p>
+<p>30ml</p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588859162686</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588859162686</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588855525438</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-akina-nic-salt"/>
+    <title>Thick Oil - Akina  Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/AkinaSA_42021f3c-4efc-4439-ae5b-e8c1600b0ecc.png?v=1605281686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Pear</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588855525438</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588855525438</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588849332286</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-canilla-salt"/>
+    <title>Thick Oil - Canilla  Nic Salt</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/CanillaSA_c0741efc-5735-46b8-b651-a7ead2f499db.png?v=1605282685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor contains RY4</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588849332286</id>
+      <title>30mL / 10mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588849332286</id>
+      <title>30mL / 20mg</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588844056638</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-sweet-oil"/>
+    <title>Thick Oil - Sweet Oil</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Sweet_560edef9-3eff-4964-b785-3ce0f6fb6f1f.png?v=1605283928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p>Max VG</p>
+<p>100ml</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588844056638</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588844056638</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588844056638</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588839567422</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-butter-oil"/>
+    <title>Thick Oil - Butter Oil</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Butter_ee239ec4-eee8-46d3-a754-f366ad1a76c3.png?v=1605281955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588839567422</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588839567422</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588839567422</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588837830718</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-blu-razz"/>
+    <title>Thick Oil - Blu Razz</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BluRazz_a913c328-d80a-479e-b662-ae04be00d67c.png?v=1605281855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Blue raspberry vape, very carefully balanced</span><br></p>
+<p>Max VG</p>
+<p>100ml</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588837830718</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588837830718</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588837830718</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588835602494</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-cool-razz"/>
+    <title>Thick Oil - Cool Razz</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/CoolRazz_060f14aa-efd1-4366-a28d-463c230bb263.png?v=1605283573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>COOL, REFRESHING EDITION - blue raspberry vape, very carefully balanced.</span><br></p>
+<p>Max VG</p>
+<p>100ml</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588835602494</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588835602494</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588835602494</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588833177662</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/thick-oil-akina"/>
+    <title>Thick Oil - Akina</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Akina.png?v=1605281667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Pear</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588833177662</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588833177662</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588833177662</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4588824887358</id>
+    <published>2020-06-10T10:17:24-04:00</published>
+    <updated>2020-06-10T10:17:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/copy-of-bareback"/>
+    <title>Thick Oil - Toasted Oil</title>
+    <s:type></s:type>
+    <s:vendor>Thick Oil and Hope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/Toasted_d2bc6454-27e8-4049-a10a-badb20fda063.png?v=1605283988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thick Oil and Hope<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Strawberry</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588824887358</id>
+      <title>100mL / 0mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588824887358</id>
+      <title>100mL / 3mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4588824887358</id>
+      <title>100mL / 6mg</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

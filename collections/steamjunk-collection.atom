@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/steamjunk-collection.atom"/>
+  <title>Theory Labs</title>
+  <updated>2019-09-23T10:26:25-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/7662991749</id>
+    <published>2019-09-23T10:26:25-04:00</published>
+    <updated>2019-09-23T10:26:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/steamjunk-collection-summer-bliss"/>
+    <title>Steamjunk Collection - Summer Bliss - DISCONTINUED - Try Rose Gold</title>
+    <s:type></s:type>
+    <s:vendor>Steamjunk Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/steamjunk_99b626d4-4e4c-4c8c-8651-41340e5d1b71.jpg?v=1620399880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Steamjunk Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">If you enjoyed this flavour try Rose Gold!</p>
+<p>A very mellow mix of ripe berries and peach – velvety smooth and great vapor production!<br></p>
+<p> </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662991749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7663075845</id>
+    <published>2019-09-23T10:26:12-04:00</published>
+    <updated>2019-09-23T10:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/steamjunk-collection-gargoyle"/>
+    <title>Steamjunk Collection - Gargoyle - DISCONTINUED - Try Yellow Gold</title>
+    <s:type></s:type>
+    <s:vendor>Steamjunk Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/steamjunk_c2544277-450b-4c1f-884e-039e40476daa.jpg?v=1620399768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Steamjunk Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>If you enjoyed this flavor please check out Yellow Gold</span></p>
+<table class="colors_descriptionbox" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="middle" width="1"></td>
+<td valign="top" width="100%">
+<span id="product_description">A perfect union of strawberries and blueberries, finished with a light sweet touch. A great all day vape featuring complex flavours and excellent vapor production.<br> </span>
+<div></div>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663075845</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7663075397</id>
+    <published>2019-09-23T10:26:00-04:00</published>
+    <updated>2019-09-23T10:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/steamjunk-collection-ghostberry"/>
+    <title>Steamjunk Collection - Ghostberry - DISCONTINUED - Try Purple Gold</title>
+    <s:type></s:type>
+    <s:vendor>Steamjunk Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/steamjunk_47e9534e-18de-4cc6-ad73-7bc4b994f6e8.jpg?v=1620399686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Steamjunk Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>If you enjoyed this flavour please check out Purple Gold. The closest you will come to the real deal if not better. We can't keep it in stock and a fraction of the price of the orginal.</p>
+<p>A delicious blend of blueberry and raspberry slightly shrouded by a ghostly finish! Excellent vapour production with a VERY smooth inhale.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663075397</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

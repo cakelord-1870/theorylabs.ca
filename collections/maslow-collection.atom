@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/maslow-collection.atom"/>
+  <title>Theory Labs</title>
+  <updated>2017-04-27T14:05:55-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/7663079429</id>
+    <published>2017-04-27T14:05:55-04:00</published>
+    <updated>2017-04-27T14:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/maslow-collection-self-actualization"/>
+    <title>Maslow Collection - Self Actualization</title>
+    <s:type></s:type>
+    <s:vendor>Maslow Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/SELF-ACTUALIZATION.png?v=1605287795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maslow Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Thick base topped with blueberries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663079429</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663079429</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663079429</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663079429</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663079429</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7663078981</id>
+    <published>2017-04-27T14:05:50-04:00</published>
+    <updated>2017-04-27T14:05:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/maslow-collection-safety"/>
+    <title>Maslow Collection - Safety</title>
+    <s:type></s:type>
+    <s:vendor>Maslow Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/SAFETY.png?v=1605287789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maslow Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor Contains Lemon</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078981</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078981</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078981</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078981</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078981</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7663078405</id>
+    <published>2017-04-27T14:05:45-04:00</published>
+    <updated>2017-04-27T14:05:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/maslow-collection-physiological"/>
+    <title>Maslow Collection - Physiological</title>
+    <s:type></s:type>
+    <s:vendor>Maslow Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/PHYSIOLOGICAL.png?v=1605287782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maslow Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A blend of grape and mixed berries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078405</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078405</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078405</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078405</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663078405</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7663077893</id>
+    <published>2017-04-27T14:05:39-04:00</published>
+    <updated>2017-04-27T14:05:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/maslow-collection-esteem"/>
+    <title>Maslow Collection - Esteem</title>
+    <s:type></s:type>
+    <s:vendor>Maslow Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/ESTEEM.png?v=1605287776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maslow Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Government regulations in Canada now prohibit the description of certain flavor profiles online. Please call us and speak with a representative.</span></p>
+<p><span>Flavor contains Cola</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663077893</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663077893</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663077893</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663077893</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7663077893</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/7662990149</id>
+    <published>2017-04-27T13:54:34-04:00</published>
+    <updated>2017-04-27T13:54:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/maslow-collection-belonging"/>
+    <title>Maslow Collection - Belonging</title>
+    <s:type></s:type>
+    <s:vendor>Maslow Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/BELONGING.png?v=1605287770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maslow Collection<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A perfect blend of mango and strawberries</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662990149</id>
+      <title>0mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662990149</id>
+      <title>1.5mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662990149</id>
+      <title>3mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662990149</id>
+      <title>6mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/7662990149</id>
+      <title>12mg / 60ml CLR C</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

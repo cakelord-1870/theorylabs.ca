@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/other-products.atom"/>
+  <title>Theory Labs</title>
+  <updated>2021-04-14T14:54:00-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/6571029463102</id>
+    <published>2021-04-14T14:54:00-04:00</published>
+    <updated>2021-04-14T14:54:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/stlth-anodized-batteries"/>
+    <title>STLTH anodized batteries</title>
+    <s:type>Pod device</s:type>
+    <s:vendor>STLTH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/redboxedSTLTH420MAHANODIZEDBATTERY.jpg?v=1618426355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STLTH<br>
+        <strong>Type: </strong>Pod device<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">420 mah battery for use with STLTH pods. This is intended for Adult usage only.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>STLTH</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6571029463102</id>
+      <title>RED</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6571029463102</id>
+      <title>BLUE</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6571029463102</id>
+      <title>GREEN</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6571029463102</id>
+      <title>GOLD</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6571029463102</id>
+      <title>ROSEGOLD</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6551300472894</id>
+    <published>2021-03-19T09:56:32-04:00</published>
+    <updated>2021-03-19T09:56:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/smok-nord-ceramic-coils-1-4-ohm"/>
+    <title>SMOK NORD  CERAMIC COILS 1.4 OHM</title>
+    <s:type>NORD COILS</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/F11_9129.jpg?v=1616162102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>NORD COILS<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SMOK NORD CERAMIC COILS 1.4 OHM, PACK OF 5.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>SMOK</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6551300472894</id>
+      <title>1.4 OHM</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6539401265214</id>
+    <published>2021-03-01T11:47:30-05:00</published>
+    <updated>2021-03-01T11:47:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/voopoo-coils-pnp-vm6"/>
+    <title>Voopoo Coils PNP-VM6 (60-80W)</title>
+    <s:type></s:type>
+    <s:vendor>VOOPOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/VOOPOOPNPCOILS5-PACK_VM60.jpg?v=1614617219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VOOPOO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The VOOPOO PnP Coil comes with various resistance for your pod system. It is designed for the VOOPOO VINCI R/VINCI X/VINCI AIR/VINCI/DRAG S/DRAG X/ARGUS AIR KIT/ ARGUS GT Kit and the V.SUIT.</p>
+<p data-mce-fragment="1">5 pieces each pack.</p>
+<p data-mce-fragment="1"> Coil Resistance:<br></p>
+<p data-mce-fragment="1">PnP-VM6 0.3ohm: Mesh 0.15ohm  (60-80W)<br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6539401265214</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6535852425278</id>
+    <published>2021-02-25T10:17:45-05:00</published>
+    <updated>2021-02-25T10:17:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/crown-5-mesh-coil-4-pack"/>
+    <title>Crown 5 Mesh Coil (4 Pack)</title>
+    <s:type></s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/UWELLCROWN5COILS4PACK_0.jpg?v=1614266265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Crown 5 Mesh Coil is applicable to Crown 5 Tank.</p>
+<p data-mce-fragment="1">The 0.23ohm single coil is best for 65-70W, giving you smoothest direct-to-lung vape and rich flavor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6535852425278</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6535851442238</id>
+    <published>2021-02-25T10:12:30-05:00</published>
+    <updated>2021-02-25T10:12:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/uwell-crown-5-tank-crc-compliant"/>
+    <title>UWELL CROWN 5 TANK (CRC compliant)</title>
+    <s:type></s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/UWELLCROWN5TANKCRC_black.jpg?v=1614265951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img class="pull-left padding-medium" src="https://www.lkvape.ca/web/image/198155/CRC_COMPLIANT_TAG_ODOO.png?access_token=230077fd-1505-467e-a1bb-0267fca4103c" data-mce-fragment="1" data-mce-src="https://www.lkvape.ca/web/image/198155/CRC_COMPLIANT_TAG_ODOO.png?access_token=230077fd-1505-467e-a1bb-0267fca4103c"></p>
+<p data-mce-fragment="1"><span>Whether you are an experienced or a beginner vaper, you should check out Uwell's Crown 5 for multiple vape experiences. You can get excellent flavor and vape thanks to its compatibility with multiple mesh coils. You can either choose a single mesh coil if you love a smooth DTL vape. With a range of 65-70 W, you get a burst of smooth rich flavor while using a single mesh coil. For restricted DTL, Uwell recommends a dual mesh coil. With the latter, you are guaranteed to enjoy a warm and flavor-saturated vape at lower wattages. Lastly, a triple mesh coil supports a slightly tight airflow for huge vapor and a slightly strong throat hit. Uwell's exquisite manufacturing technology gives you a high-quality vape tank made from stainless steel that is meticulously polished to give you a smooth feel and a bright luster to prevent damage. Introducing the self-cleaning technology, the crown 5 atomizer utilizes the e-juice in the condensation holder to lessen juice leakage and consequent cleaning. It further utilizes a cap design that has been optimized to allow you to refill your e-juice with ease. With a quarter-turn commonly known as 90 degrees turn, you are ready to refill your tank through a filler hole that has extra safety, check valve, to prevent further leakage. Crown 5 - Uwell also features a pro-FOCS Flavor Testing technology that optimizes the e-juice flavors.</span></p>
+<p data-mce-fragment="1">Available in Black and Stainless</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6535851442238</id>
+      <title>Stainless</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6535851442238</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6535849771070</id>
+    <published>2021-02-25T10:00:26-05:00</published>
+    <updated>2021-02-25T10:00:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/voopoo-coils-pnp-vm1"/>
+    <title>Voopoo Coils PNP-VM1 (32-40W)</title>
+    <s:type></s:type>
+    <s:vendor>VOOPOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/voopoo_pnp_coils_vm1_1400x_900x_8b1aa00a-5297-457c-92bc-85c83d8fbfef.jpg?v=1614265198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VOOPOO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The VOOPOO PnP Coil comes with various resistance for your pod system. It is designed for the VOOPOO VINCI R/VINCI X/VINCI AIR/VINCI/DRAG S/DRAG X/ARGUS AIR KIT/ ARGUS GT Kit and the V.SUIT.</p>
+<p data-mce-fragment="1">5 pieces each pack.</p>
+<p data-mce-fragment="1"> Coil Resistance:<br></p>
+<p data-mce-fragment="1">PnP-VM1 0.3ohm: Mesh 0.3ohm  (32-40W)<br data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6535849771070</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/6535847379006</id>
+    <published>2021-02-25T09:45:38-05:00</published>
+    <updated>2021-02-25T09:45:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/voopoo-pnp-pod-tank-crc-version"/>
+    <title>Voopoo PnP Pod Tank CRC version</title>
+    <s:type></s:type>
+    <s:vendor>VOOPOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/VOOPOOPNPTANK2_large_900x_78832f06-dc8d-4877-bcf8-cf0d94ac97c3.jpg?v=1614264326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VOOPOO<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><img alt="" src="https://cdn.shopify.com/s/files/1/1960/2991/files/CRC_COMPLIANT_TAG_ODOO_1_480x480.png?v=1612192618"></p>
+<p data-mce-fragment="1">The whole PnP platform is genius, and the PnP tank seals the deal!<br data-mce-fragment="1"><br data-mce-fragment="1">Cross compatible with all of the excellent PnP coils and the PnP pods (Drag S/X pods), the PnP tank makes use of both with the addition of a sturdy 510 adapter and AFC ring.<br data-mce-fragment="1"><br data-mce-fragment="1">With the PnP tank, you benefit from one of the best selection of coils on the market, and it doubles as a spare pod for the Drag S/X!</p>
+<p data-mce-fragment="1"> </p>
+<h3 data-mce-fragment="1">Specifications</h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">VOOPOO PnP POD TANK</strong> </p>
+<table class="table table-bordered" data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><u data-mce-fragment="1">Capacity</u></td>
+<td data-mce-fragment="1">4.5ml</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><u data-mce-fragment="1">Width</u></td>
+<td data-mce-fragment="1">50*26mm</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><u data-mce-fragment="1">Filling method</u></td>
+<td data-mce-fragment="1">Bottom filling</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><u data-mce-fragment="1">Compatible coils</u></td>
+<td data-mce-fragment="1">PnP coils</td>
+</tr>
+<tr data-mce-fragment="1">
+<td data-mce-fragment="1"><u data-mce-fragment="1">Airflow control</u></td>
+<td data-mce-fragment="1">Adjustable</td>
+</tr>
+</tbody>
+</table>
+<p data-mce-fragment="1">Included in the box :</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">1×PnP Pod Tank</li>
+<li data-mce-fragment="1">1×PnP-VM1</li>
+<li data-mce-fragment="1">1×PnP-VM6</li>
+<li data-mce-fragment="1">1×User Manual</li>
+<li data-mce-fragment="1">Note: </li>
+<li><span data-sheets-value='{"1":2,"2":"Check out the VOOPOO DRAG S Replacement Pods, featuring a 4.5mL bottom filled capacity, PnP Coil Compatibility, and is fastened by a magnetic connection."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>0.3ohm PnP-VM1 Coil - rated for 32-40W<br></span></li>
+<li><span data-sheets-value='{"1":2,"2":"Check out the VOOPOO DRAG S Replacement Pods, featuring a 4.5mL bottom filled capacity, PnP Coil Compatibility, and is fastened by a magnetic connection."}' data-sheets-userformat='{"2":4993,"3":{"1":0},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>0.2ohm PnP-VM5 Coil - rated for 40-60W</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/6535847379006</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807261388862</id>
+    <published>2021-02-01T12:23:43-05:00</published>
+    <updated>2021-02-01T12:23:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/joytech-egrip-replacement-coils"/>
+    <title>Joytech eGrip Replacement Coils</title>
+    <s:type></s:type>
+    <s:vendor>joytech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/egrip_coil_2_1024x1024_a0aff979-c7e4-4dc9-8fee-a80d5ae77fc8.jpg?v=1612200223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>joytech<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The construction of the eGrip CS head is completely different compared to other Joyetech atomizer heads, so it only works with select devices. It has a resistance of 1.5Ω. Note: It can work under high voltage and wattage. (3.5v - 5.5v)</p>
+<p data-mce-fragment="1">Changing eGrip Coils: To begin, simply unscrew the bottom cap with a coin. The atomizer head will be located on the base of that bottom cap. Twist/Unscrew the atomizer head and replace it with a fresh new one.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807261388862</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807252082750</id>
+    <published>2021-02-01T12:12:20-05:00</published>
+    <updated>2021-02-01T12:12:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/uwell-crown-2-replacement-coil"/>
+    <title>Uwell Crown 2 Replacement Coil</title>
+    <s:type></s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/crown-2-coil-0-25-canada-570x570.jpg?v=1612199541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-mce-fragment="1"><span data-mce-fragment="1"><strong data-mce-fragment="1">Uwell Crown 2 Replacement Coil Heads – 0.25 ohms </strong></span></h2>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">100% Genuine Uwell. <span data-mce-fragment="1"> </span><span data-mce-fragment="1">Dual parallel wrapped vertical coils with low sub-ohm 0.25 ohm resistance.  </span></strong>Unique bullet-shape means positive connector is a cone which allows for more direct airflow and allows the coil to heat up more evenly.  Produces awesome clouds, great flavour and are long lasting.  New<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Ultra-Smooth Airflow Design</strong>.  High wattage operating range (from<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">60W to 100W</strong>).  Vertical design for best capillary action and greater wick saturation.  Imported organic cotton.</p>
+<p data-mce-fragment="1">Fits the<span data-mce-fragment="1"> </span><span data-mce-fragment="1"><strong data-mce-fragment="1"><a href="https://vapevine.ca/buy/uwell-crown-2-canada/" data-mce-fragment="1" data-mce-href="https://vapevine.ca/buy/uwell-crown-2-canada/">Uwell Crown 2 Sub-Ohm Tank</a></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807252082750</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807246118974</id>
+    <published>2021-02-01T11:59:51-05:00</published>
+    <updated>2021-02-01T11:59:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vocc-t-coils"/>
+    <title>VOCC-T Coils</title>
+    <s:type></s:type>
+    <s:vendor>KANGER TECH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/authentic-kanger-vocc-t-coil-heads-canada.jpg?v=1612198785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KANGER TECH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product_summary_middle" data-mce-fragment="1">
+<h1 class="product_title entry-title" data-mce-fragment="1">(*EVOD 2, TOPTANK EVOD*) | 5-pack</h1>
+</div>
+<div class="woocommerce-product-details__short-description" data-mce-fragment="1">
+<p data-mce-fragment="1">Upgraded<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">VOCC-T</strong><span data-mce-fragment="1"> </span>(Vertical Organic Cotton Coil – Top) Replacement<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Dual Coils</strong>. For your <strong data-mce-fragment="1">EVOD,<span data-mce-fragment="1"> </span><a href="https://vapevine.ca/buy/kangertech-evod-2-starter-kit-canada/" data-mce-fragment="1" data-mce-href="https://vapevine.ca/buy/kangertech-evod-2-starter-kit-canada/">EVOD 2</a>, TopTank EVOD, Protank 3, TopTank EMOW, and Aerotank</strong>.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">Kanger has released these coils along with the new Top Evod, the new top-filling pen style unit.  These new coil heads fit all of the same tanks as the previous coil version, but the VOCC-T are designed to work best with the Top Evod and Top Emow. </em></p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">The Authentic Kangertech Dual Coil 1.5 ohm Replacement Pack comes with:</strong></p>
+<p data-mce-fragment="1">5x – Stainless steel dual coil units (1.5 ohm)</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807246118974</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807241596990</id>
+    <published>2021-02-01T11:53:23-05:00</published>
+    <updated>2021-02-01T11:53:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/yocan-cerum-coils"/>
+    <title>Yocan Cerum Coils</title>
+    <s:type></s:type>
+    <s:vendor>Yocan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/cerum.png?v=1612198407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yocan<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This is a 5 pack of ceramic donut coils for your Yocan Cerum.  These coils have a resistance of 0.8ohm, quick heat up time and will provide clean tasty hits and big vapour. The air inlets are placed on the sides of the ceramic cup, which avoids the wax leaking from the bottom onto the coil. Rated for 15-25W.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807241596990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807161937982</id>
+    <published>2021-02-01T10:33:18-05:00</published>
+    <updated>2021-02-01T10:33:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/rpm-nord-pod-3-pack-crc-compliant"/>
+    <title>RPM NORD POD 3 PACK (CRC compliant)</title>
+    <s:type>PODS</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/RPM40PODCRC3PACK_nordcompatible.jpg?v=1612193885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>PODS<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A <img src="https://cdn.shopify.com/s/files/1/1960/2991/files/CRC_COMPLIANT_TAG_ODOO_1_480x480.png?v=1612192618" alt="" width="107" height="32" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1960/2991/files/CRC_COMPLIANT_TAG_ODOO_1_480x480.png?v=1612192618">replacement pod for the new (CRC) SMOK RPM40 Kits. The package comes with 3 empty RPM40 NORD pods, which have 4.5 ml e-liquid capacity (NO COILS)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>SMOK</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807161937982</id>
+      <title>RPM Nord Pods</title>
+      <s:price currency="CAD">12.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807150895166</id>
+    <published>2021-02-01T10:20:17-05:00</published>
+    <updated>2021-02-01T10:20:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/smok-rpm-40-kit-crc-compliant"/>
+    <title>SMOK RPM 40 KIT (CRC compliant)</title>
+    <s:type>POD MOD</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/SMOKRPM40KITCRC_7-color-black.jpg?v=1629212577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>POD MOD<br>
+        <strong>Price: </strong>
+            54.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">The <img src="https://cdn.shopify.com/s/files/1/1960/2991/files/CRC_COMPLIANT_TAG_ODOO_1_480x480.png?v=1612192618" alt="" width="64" height="19" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/1960/2991/files/CRC_COMPLIANT_TAG_ODOO_1_480x480.png?v=1612192618"> version of the amazing RPM40 kit. It is the first pod device that allows for full control of the the power like a box mod.</p>
+<p data-mce-fragment="1">Not only that, but the RPM40 comes with two types of pods, one allowing for their new RPM coils, and the other for the amazing Nord coils range!</p>
+<p data-mce-fragment="1">Ranging from 1 to 40w in power and packing 1500mAh (you've read that right), this incredible kit gives you total control over your vape experience - in a pod format!</p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>SMOK</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>Black</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>Chrome</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>7 Colour/Black</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>7 Colour/White</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>Gold</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>Orange</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807150895166</id>
+      <title>Purple</title>
+      <s:price currency="CAD">54.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807139000382</id>
+    <published>2021-02-01T10:06:39-05:00</published>
+    <updated>2021-02-01T10:06:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/caliburn-g-pods-2-pack-crc-compliant"/>
+    <title>Caliburn G Pods (CRC compliant)</title>
+    <s:type>Pod</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/UWELLCALIBURNGREPLACEMENTPODCRC2PACK_0.jpg?v=1612191766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pod<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>0.8ohm and 1.0 OHM CRC compliant Pods for your Caliburn G.</p>
+<p>2 Pods per pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caliburn</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807139000382</id>
+      <title>0.8OHM</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807139000382</id>
+      <title>1.0 OHM</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4807128318014</id>
+    <published>2021-02-01T09:52:54-05:00</published>
+    <updated>2021-02-01T09:52:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/caliburn-g"/>
+    <title>Caliburn G Pod Device (CRC compliant)</title>
+    <s:type>Pod device</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/UWELLCALIBURNGKITCRC_black.jpg?v=1612190746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>Pod device<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The authentic Uwell Caliburn G Pod Kit is the upgrade version of Caliburn, works with 690mAh built-in battery, and can fire up to max 15W output. Caliburn G Kit with a pocket-friendly single button layout design provides a simple interface, plus an easy-to-use pod system, making it a perfect start for beginner vapers.</p>
+<p>Caliburn G has a lightweight frame and slim design, very easy to carry. Uwell Caliburn G Pod kit can vape directly through the air pressure sensor or manual button to start vaping. It comes with 2.0ml capacity with top-fill and leakproof design. Uwell Caliburn G pod supports two different airflows: restricted DTL vaping (when the air inlet of the pod and the air inlet of the device are close to each other) and MTL vaping (when the air inlet of the pod and the air inlet of the device are far away from each other).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Caliburn</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Red</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Rose Brown</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Grey</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Green</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4807128318014</id>
+      <title>Blue</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4517454643262</id>
+    <published>2021-01-20T19:30:28-05:00</published>
+    <updated>2021-01-20T19:30:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/xtar-mc4-charger"/>
+    <title>XTAR MC4 CHARGER</title>
+    <s:type>Battery charger</s:type>
+    <s:vendor>XTAR</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/41PD6aTHxlL._SX342.jpg?v=1607528612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XTAR<br>
+        <strong>Type: </strong>Battery charger<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>XTAR MC4, the first portable and cost-effective 4-slot charger with Micro USB charging port.  Charge four batteries simultaneously, Max 2x1A or 0.5Ax4, Powered by micro-USB port, charge everywhere. LED indicators show real time charging status.  Full package includes adapter .</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454643262</id>
+      <title>Default title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>XTAR-MC4-CHARGER</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4767798820926</id>
+    <published>2020-11-25T10:58:40-05:00</published>
+    <updated>2020-11-25T10:58:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/appexium-18650-3000mah-25amp-batteries"/>
+    <title>Appexium 18650 3000MAH 25AMP Batteries</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Appexium</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/AppexiumBattery.jpg?v=1606319695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Appexium<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3 data-mce-fragment="1">Description Warnings</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Apexium INR 18650 3000mAh Battery – 25 Amp</li>
+<li data-mce-fragment="1">Sold Individually</li>
+<li data-mce-fragment="1">18.33mm x 64.85mm</li>
+</ul>
+<h3>Manufacturer’s listed Specifications:</h3>
+<ul>
+<li>Size: 18650</li>
+<li>Nominal Capacity: 3000mAh</li>
+<li>Nominal Voltage: 3.6V</li>
+<li>Continuous Discharge Current: 25A</li>
+<li>Flat Top</li>
+</ul>
+<h2><strong>IMPORTANT:</strong></h2>
+<ul>
+<li>Fully charge before first use.</li>
+<li>A purchaser and user of rechargeable batteries should educate themselves on rechargeable batteries.</li>
+<li>Do not use any rechargeable battery or charger if any visible damage is present, or if known mishandling, accidental or otherwise, has occurredWe are not responsible for any damage. caused by the misuse or mishandling of rechargeable batteries.</li>
+<li>Always store and transport rechargeable batteries in a safe, non-conductive container</li>
+<li>Never charge batteries to 4.3V or above.</li>
+<li>Never short (connect positive and negative size) battery.</li>
+<li>Never keep a spare battery loose in a pocket, purse, etc. and always use protective cases.</li>
+<li>Never carry bare cell in your pocket with keys, change or any other metal objects.</li>
+<li>Never keep this battery together with metal objects (short circuit can happen if you do).</li>
+<li>Do not expose to heat.</li>
+<li>.Do not use any rechargeable battery or charger if any visible damage is present, or if known mishandling, accidental or otherwise, has occurred.</li>
+<li><strong>Warning: Lithium ion batteries may explode or burn due to improper use. Using these batteries for purposes not intended by the manufacturer, including outside a battery pack and/or without a BMS, may cause severe injury and damage. We are not responsible for any injuries caused by lithium ion batteries – use at your own risk.</strong></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4767798820926</id>
+      <title>Appexium 18650</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku/>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4517454282814</id>
+    <published>2020-11-01T17:04:00-05:00</published>
+    <updated>2020-11-01T17:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/voopoo-drag2-box-mod"/>
+    <title>VOOPOO Drag 2 PnP Refresh Edition Kit in CRC Version</title>
+    <s:type>MOD</s:type>
+    <s:vendor>VOOPOO</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/VOOPOODRAG2REFRESHKITCRC_aurora.jpg?v=1614263310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>VOOPOO<br>
+        <strong>Type: </strong>MOD<br>
+        <strong>Price: </strong>
+            65.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://www.lkvape.ca/web/image/198155/CRC_COMPLIANT_TAG_ODOO.png?access_token=230077fd-1505-467e-a1bb-0267fca4103c" class="pull-left padding-medium"></p>
+<p>VOOPOO Drag 2 Refresh Edition Kit in CRC Version is a new version of VOOPOO Drag 2 with the difference that it comes with PNP Pod Tank. The exquisite and artistic Drag 2 Refresh Edition has an ergonomic portable design and has unique aesthetics and usability. Two external 18650 batteries (NOT INCLUDED) provide max 177W power output. At the same time, 5-177W can adjust the power to find the best flavor for you. Drag 2 Refresh Edition uses innovative GENE.FIT chip with FIT function. The GENE.FIT Chip is dynamic and quite efficient with battery efficiency, and it has the powerful performance of fast ignition and high burst, and also supports intelligent identification of coil, to preventing the coil from burning out, with the addition of multiple output power adjustments such as Flavor Set, Cloud Set, and Battery Set.</p>
+<p>VOOPOO PNP Pod Tank is a new type of Tank, which can be flexibly switched between POD and TANK, with a capacity of 4.5ml, and double intake hole design. It matches perhaps the most abundant and excellent PnP coils; Magnetic absorption makes coil change and oil filling never so simple; The adjustable air 510 base matches almost all of your devices. Drag 2 Refresh Edition equipped with two PnP coils of 0.15ohm and 0.2ohm. They will let you feel the PnP coils of a big cloud with incredible flavors. Drag 2 Refresh Edition also compatible with all PnP coils.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454282814</id>
+      <title>Aurora</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku>VOOPOO-DRAG-2-AURORA</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454282814</id>
+      <title>Scarlet</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454282814</id>
+      <title>Dawn</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454282814</id>
+      <title>Ink</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517454282814</id>
+      <title>Puzzle</title>
+      <s:price currency="CAD">65.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748848300094</id>
+    <published>2020-10-19T16:01:04-04:00</published>
+    <updated>2020-10-19T16:01:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/coil-master-521-mini-v2-ohm-meter"/>
+    <title>Coil Master 521 mini V2  OHM meter</title>
+    <s:type>OHM reader</s:type>
+    <s:vendor>Coil Master</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/521mini-V2-999-100x100.jpg?v=1603137664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Coil Master<br>
+        <strong>Type: </strong>OHM reader<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="woocommerce-tabs wc-tabs-wrapper" data-mce-fragment="1">
+<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" data-mce-fragment="1">
+<p data-mce-fragment="1">Driven by a single 18650 battery, Coil Master 521 mini V2 is a handy compact device for all vapers.<br data-mce-fragment="1">It is a multi-functional device that acts as an ohm meter, voltage drop checker, rebuilding station and firing test station.<br data-mce-fragment="1">The 521 mini V2 is able to measure the resistance down to 0.05 ohm, and dry fire their coils down to 0.1 ohm as well.<br data-mce-fragment="1">Reverse battery protection and short circuit protection are also built in for safty use.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong><br data-mce-fragment="1">– Ohm meter<br data-mce-fragment="1">– Coil rebuilding deck<br data-mce-fragment="1">– Coil burning<br data-mce-fragment="1">– Reverse battery protection<br data-mce-fragment="1">– Short circuit protection<br data-mce-fragment="1">– Battery out put voltage testing<br data-mce-fragment="1">– PCB Heat protection</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Specification</strong><br data-mce-fragment="1">– Resistance Measuring Range: 0.05-9.9ohm(Error±0.05ohm)<br data-mce-fragment="1">– Resistance rate: 0.1ohm<br data-mce-fragment="1">– Connection: 510 threaded with spring loaded pin<br data-mce-fragment="1">– Battery: Single 18650 battery driven (Battery is not included)</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">General specifications</strong><br data-mce-fragment="1">Dimension: 80mm x 80mm x 28mm<br data-mce-fragment="1">Weight: 80g<br data-mce-fragment="1">Housing material: ABS</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Packing</strong><br data-mce-fragment="1">1x User Manual<br data-mce-fragment="1">1x 521 Mini V2</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+</div>
+</div>
+<div class="up-sells upsells products" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748848300094</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4748817236030</id>
+    <published>2020-10-19T14:50:52-04:00</published>
+    <updated>2020-10-19T14:50:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/vandy-vape-pulse-bf-80w-box-mod"/>
+    <title>Vandy Vape Pulse BF 80W Box Mod</title>
+    <s:type></s:type>
+    <s:vendor>Vandy Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/pulse-80w-box-mod-001_1.jpg?v=1603133453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vandy Vape<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span data-mce-fragment="1">The Vandy Vape Pulse BF 80W Box Mod is made in collaboration with Tony B. to produce a lightweight, regulated squonk device utilizing Vandy Vape's proprietary chipset with 80W of maximum output and customizable temperature control settings.  A beautiful masterpiece catering to the rebuildable segment with a high-performance and fully regulated bottom-feeding box mod. The Pulse BF 80W is equipped with its own proprietary chipset, capable of firing up to 80W with full temperature control suite such as customizable curve output adjustments. The Pulse BF Regulated Mod can be utilized with a single 18650 battery with an included adapter or the longer-lasting 20700 battery for added versatility (batteries sold separately). The Pulse BF 80W implements interchangeable panels with beautiful designs ranging from carbon fiber to visually-striking resin-dyed colourways. The 8mL food-grade silicone squonk bottle can be assessed by removing the panel, offering an ergonomic experience when paired with today's top BF RDA’s.</span></p>
+<p class="p2" data-mce-fragment="1"><b data-mce-fragment="1"><br data-mce-fragment="1">Kit includes:<br data-mce-fragment="1"></b><span data-mce-fragment="1">1x Pulse BF 80W Box Mod<br data-mce-fragment="1"></span><span data-mce-fragment="1">1x 8mL Silicone Squonk Bottle<br data-mce-fragment="1"></span><span data-mce-fragment="1">1x MicroUSB Cable<br data-mce-fragment="1"></span><span data-mce-fragment="1">Instructional Manua</span></p>
+<p class="p2" data-mce-fragment="1"> </p>
+<p class="p2" data-mce-fragment="1"><span data-mce-fragment="1"><meta charset="utf-8"> <b>Features</b></span></p>
+<ul>
+<li>Dimensions - 82mm by 54mm by 25.9mm<br>
+</li>
+<li>
+<p class="p1"><span>Vandy Vape's Advanced Chipset</span></p>
+</li>
+<li>
+<p class="p1"><span>Single High-Amp 20700 Batteries - Not<span class="Apple-converted-space"></span></span></p>
+</li>
+<li>
+<p class="p1"><span>Included</span></p>
+</li>
+<li>
+<p class="p1"><span>Optional Single 18650 Platform - Adapter Included</span></p>
+</li>
+<li>
+<p class="p1"><span>Bottom-Feeding Squonk Design - 8mL Squeeze Bottle</span></p>
+</li>
+<li>
+<p class="p1"><span>Wattage Output Range: 5-80W</span></p>
+</li>
+<li>
+<p class="p1"><span>Voltage Output Range: 0-8.5V</span></p>
+</li>
+<li>
+<p class="p1"><span>Min Atomizer Resistance: 0.05ohm</span></p>
+</li>
+<li>
+<p class="p1"><span>Temperature Control Range: 200-600F</span></p>
+</li>
+<li>
+<p class="p1"><span>Supports Ni200 Nickel, Titanium, and Stainless Steel Heating Elements</span></p>
+</li>
+<li>
+<p class="p1"><span>Comprehensive TCR Adjustments</span></p>
+</li>
+<li>
+<p class="p1"><span>User Defined Temperature Control Mode</span></p>
+</li>
+<li>
+<p class="p1"><span>User Defined TC Curve Set Mode</span></p>
+</li>
+<li>
+<p class="p1"><span>Lightweight Nylon &amp; ABS Construction</span></p>
+</li>
+<li>
+<p class="p1"><span>Intuitive 0.91 Inch OLED Display</span></p>
+</li>
+<li>
+<p class="p1"><span>Interchangeable Dual Magnetic Battery Panels</span></p>
+</li>
+<li>
+<p class="p1"><span>Tactile Firing Button</span></p>
+</li>
+<li>
+<p class="p1"><span>Dual Adjustment Buttons</span></p>
+</li>
+<li>
+<p class="p1"><span>Short Circuit Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Over-Heating Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Over-Current Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Overtime Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Open Circuit Protection</span></p>
+</li>
+<li>
+<p class="p1"><span>Low Battery Warning</span></p>
+</li>
+<li>
+<p class="p1"><span>MicroUSB Port - 1.5A Max Charge Current</span></p>
+</li>
+<li>
+<p class="p1"><span>Firmware Upgradeable</span></p>
+</li>
+<li>
+<p class="p1"><span>Squonk-Ready 510 Connection - Anti Leaking Securement</span></p>
+</li>
+<li>
+<p class="p1"><span>Carbon Fiber - Full Black, Black / Silver</span></p>
+</li>
+<li>
+<p class="p1"><span>Resin - Lava Red, Fantastic Blue, Seaweed Green, Aurora Rainbow</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748817236030</id>
+      <title>Aurora Rainbow</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4748817236030</id>
+      <title>Lava Red</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4524416073790</id>
+    <published>2020-05-14T14:03:39-04:00</published>
+    <updated>2020-05-14T14:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/koolada-kicker"/>
+    <title>Koolada Kicker</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/KooladaKicker.png?v=1605631397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flavour Art Polar Blast 10ml<br></p>
+<p>This is pure extract. Add a drop or two and it will add a refreshingly cool boost to your juice. </p>
+<div class="ZUo4Ze">
+<div class="fwCBrd">
+<a class="ZsbmCf" data-ved="0CAMQjB1qFwoTCLCciN7WpOkCFQAAAAAdAAAAABAD" role="button" rel="noopener noreferrer" target="_blank" href="https://mall.myuwell.com/products/crown-3-mini-4-5ml-replacement-glass" jsaction="focus:kvVbVb; mousedown:kvVbVb; touchstart:kvVbVb;" aria-label="Visit UWell" tabindex="0">
+<div class="dJcyOc"><span class="pM4Snf"></span></div>
+</a>
+<div class="fDqwl" jsname="ZE6Ufb"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4524416073790</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4524413190206</id>
+    <published>2020-05-14T14:03:39-04:00</published>
+    <updated>2020-05-14T14:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/menthol-kicker"/>
+    <title>Menthol Kicker</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/MentholKicker.png?v=1605631401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Flavor West Menthol 10ml</p>
+<p>Need a little  bit more menthol to your juice. This is pure extract. Add a drop or two and it will add a menthol boost to your juice. </p>
+<div class="ZUo4Ze">
+<div class="fwCBrd">
+<a class="ZsbmCf" data-ved="0CAMQjB1qFwoTCLCciN7WpOkCFQAAAAAdAAAAABAD" role="button" rel="noopener noreferrer" target="_blank" href="https://mall.myuwell.com/products/crown-3-mini-4-5ml-replacement-glass" jsaction="focus:kvVbVb; mousedown:kvVbVb; touchstart:kvVbVb;" aria-label="Visit UWell" tabindex="0">
+<div class="dJcyOc"><span class="pM4Snf"></span></div>
+</a>
+<div class="fDqwl" jsname="ZE6Ufb"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other</s:tag>
+    <s:tag>Other products</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4524413190206</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4517453692990</id>
+    <published>2020-05-09T10:03:29-04:00</published>
+    <updated>2020-05-09T10:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/apple-crisp-pods"/>
+    <title>Crisp Apple pod pack (3 units)</title>
+    <s:type>Pod packs</s:type>
+    <s:vendor>STLTH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/STLTH_CrispApple_20MG_large_4fc323df-f55c-4b80-af2d-a5a768ced100.jpg?v=1589034147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STLTH<br>
+        <strong>Type: </strong>Pod packs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pack of 3 STLTH Crisp Apple - Crispy red apple flavour with a tart finish</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>STLTH</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517453692990</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>STLTH-CRISP-APPLE-20MG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4517453660222</id>
+    <published>2020-05-09T10:03:29-04:00</published>
+    <updated>2020-05-09T10:03:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/berry-blast-pods"/>
+    <title>Berry Blast pod pack (3 units)</title>
+    <s:type>Pod packs</s:type>
+    <s:vendor>STLTH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/STLTH_BerryBlast_35MG_large_63186576-e81f-4ec9-a11c-2cedd2a1ce7e.jpg?v=1589034483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STLTH<br>
+        <strong>Type: </strong>Pod packs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Berry Blast - a fabulous mixture of raspberries, strawberries, and other exotic berries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>STLTH</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517453660222</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>STLTH-BERRY-BLAST-20MG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/4517453758526</id>
+    <published>2020-05-09T10:03:28-04:00</published>
+    <updated>2020-05-09T10:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/tobacco-blend-pods"/>
+    <title>Tobacco Blend pod pack (3 units)</title>
+    <s:type>Pod packs</s:type>
+    <s:vendor>STLTH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/STLTH_TobaccoBlend_35MG_large_06d1268c-5d97-45f1-9e8e-b1ffb6cfb715.jpg?v=1589034088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>STLTH<br>
+        <strong>Type: </strong>Pod packs<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A pack of 3 STLTH Tobacco Blend - Medium blend tobacco flavor</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Other products</s:tag>
+    <s:tag>STLTH</s:tag>
+    <s:variant>
+      <id>https://theorylabs.ca/products/4517453758526</id>
+      <title>20mg</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>STLTH-TOBACCO-BLEND-20MG</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

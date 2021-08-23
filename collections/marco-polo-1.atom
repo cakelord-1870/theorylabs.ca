@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theorylabs.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://theorylabs.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://theorylabs.ca/collections/marco-polo-1.atom"/>
+  <title>Theory Labs</title>
+  <updated>2019-04-22T11:38:52-04:00</updated>
+  <author>
+    <name>Theory Labs</name>
+  </author>
+  <entry>
+    <id>https://theorylabs.ca/products/2126819262526</id>
+    <published>2019-04-22T11:38:52-04:00</published>
+    <updated>2019-04-22T11:38:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1271-winter-salts"/>
+    <title>1271 Winter Salts</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1271WSA_d528ac39-2412-4ed5-8643-3176a726c66c.png?v=1605280104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Experience  1271,  Marco Polo Vape Co’s original 1271 flavour; a smooth  blend of blackcurrant, mango, and lychee amongst other exotic fruits.</strong></p>
+<p><strong><span>50/50 VG/PG</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126819262526</id>
+      <title>10mg S BLU A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126819262526</id>
+      <title>20mg S BLU A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/2126818639934</id>
+    <published>2019-04-22T11:38:11-04:00</published>
+    <updated>2019-04-22T11:38:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1271-salts"/>
+    <title>1271 Salts</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1271SA_c26b0b65-2a34-43c1-8177-c9920e0a66f7.png?v=1605280065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Experience  1271,  Marco Polo Vape Co’s original 1271 flavour; a smooth blend of blackcurrant, mango, and lychee amongst other exotic fruits.</strong></p>
+<p><strong><span>50/50 VG/PG</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126818639934</id>
+      <title>10mg S CLR A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126818639934</id>
+      <title>20mg S CLR A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/2126817198142</id>
+    <published>2019-04-22T11:36:20-04:00</published>
+    <updated>2019-04-22T11:36:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1274-salts"/>
+    <title>1274 Salts</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1274SA.png?v=1605280226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>It is now 1274, three years after Marco Polo has set sail from Venice Italy and reaching his final destination in China. Explore this new release of 1274, a refreshingly smooth fruit blend of passion fruit, tangy white grape, and crispy Asian snow pear, rounded out by other luscious fruits.</span></strong></p>
+<p><strong><span>50/50 VG/PG</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126817198142</id>
+      <title>10mg S CLR A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126817198142</id>
+      <title>20mg S CLR A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/2126815920190</id>
+    <published>2019-04-22T11:35:03-04:00</published>
+    <updated>2019-04-22T11:35:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1274-winter-salts"/>
+    <title>1274 Winter Salts</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1274WSA.png?v=1605280287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>It is now 1274, three years after Marco Polo has set sail from Venice Italy and reaching his final destination in China. Explore this new release of 1274, a refreshingly smooth  fruit blend of passion fruit, tangy white grape, and crispy Asian snow pear, rounded out by other luscious fruits.</span></strong></p>
+<p><strong><span>50/50 VG/PG</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126815920190</id>
+      <title>10mg S BLU A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126815920190</id>
+      <title>20mg S BLU A</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/2126815494206</id>
+    <published>2019-04-22T11:34:42-04:00</published>
+    <updated>2019-04-22T11:34:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1274-winter"/>
+    <title>1274 Winter</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1274W.png?v=1605280284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>It is now 1274, three years after Marco Polo has set sail from Venice Italy and reaching his final destination in China. Explore this new release of 1274, a refreshingly smooth  fruit blend of passion fruit, tangy white grape, and crispy Asian snow pear, rounded out by other luscious fruits.</span>l</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126815494206</id>
+      <title>0mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126815494206</id>
+      <title>3mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126815494206</id>
+      <title>6mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/2126814838846</id>
+    <published>2019-04-22T11:34:07-04:00</published>
+    <updated>2019-04-22T11:34:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1274"/>
+    <title>1274</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1274.png?v=1605280219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span>It is now 1274, three years after Marco Polo has set sail from Venice Italy and reaching his final destination in China. Explore this new release of 1274, a refreshingly smooth  fruit blend of passion fruit, tangy white grape, and crispy Asian snow pear, rounded out by other luscious fruits.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126814838846</id>
+      <title>0mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126814838846</id>
+      <title>3mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/2126814838846</id>
+      <title>6mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/650046505022</id>
+    <published>2018-05-11T08:47:24-04:00</published>
+    <updated>2018-05-11T08:47:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1271-winter-2"/>
+    <title>1271 Winter</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1271W.png?v=1605280101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Experience the frigid Winter of 1271, a chilled version of Marco Polo Vape Co’s original 1271 flavour; a smooth blend of blackcurrant, mango, and lychee amongst other exotic fruits, now cooled to give you a refreshingly icy blast.</strong></p>
+<p> </p>
+<p><strong>PG/VG</strong><strong>: 30/70</strong></p>
+<p><strong>60ml</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/650046505022</id>
+      <title>0mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/650046505022</id>
+      <title>3mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/650046505022</id>
+      <title>6mg BLU A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://theorylabs.ca/products/649991356478</id>
+    <published>2018-05-11T08:47:24-04:00</published>
+    <updated>2018-05-11T08:47:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://theorylabs.ca/products/1271-1"/>
+    <title>1271</title>
+    <s:type></s:type>
+    <s:vendor>Theory Labs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1960/2991/products/1271.png?v=1605280074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theory Labs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Experience  1271,  Marco Polo Vape Co’s original 1271 flavour; a smooth blend of blackcurrant, mango, and lychee amongst other exotic fruits.</strong></p>
+<p> </p>
+<p><strong>PG/VG</strong><strong>: 30/70</strong></p>
+<p><strong>60ml</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://theorylabs.ca/products/649991356478</id>
+      <title>0mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/649991356478</id>
+      <title>3mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://theorylabs.ca/products/649991356478</id>
+      <title>6mg CLR A</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
